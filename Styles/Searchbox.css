@@ -1,0 +1,10 @@
+.Header {
+  margin: auto;
+  padding-top: 20px;
+  width: 50%;
+}
+
+.search-box {
+  font-size: medium;
+  padding: 2px;
+}
